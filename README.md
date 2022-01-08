@@ -28,7 +28,7 @@ However, these are the features that we are focused on:
 - Sklearn for unsupervised learning.
 - NLTK and gensim for text manipulation.
 - Matplotlib and Seaborn for plotting.
-- 
+ 
 --------------------------------------------------------------------------------
 
 The Fourth project - T5 Data Science Bootcamp
